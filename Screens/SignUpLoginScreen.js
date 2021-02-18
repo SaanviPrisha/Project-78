@@ -245,7 +245,7 @@ const styles = StyleSheet.create({
   },
   SignUpButton: {
     marginTop: -50,
-    backgroundColor: '#e89e99,
+    backgroundColor: '#e89e99',
     width: 100,
     height: 50,
     alignText: 'center',
